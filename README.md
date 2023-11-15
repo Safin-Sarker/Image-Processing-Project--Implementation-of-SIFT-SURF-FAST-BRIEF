@@ -1,1 +1,3 @@
 # Image-Processing-Project-Implementation-of-SIFT-SURF-FAST-BRIEF
+
+The scope in this project is to understand and describe key points in images using computer vision. There are two main tasks: finding these points (feature detectors) and providing more details about them (feature descriptors). The focus is on comparing different methods for finding and describing these image points, considering factors like effectiveness and results. The evaluation also looks at whether these methods can handle features at different sizes (scale invariance) and describe features, regardless of their orientation (rotational invariance
